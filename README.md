@@ -38,7 +38,7 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 </div>  
 
 ---
-## ** ⚙️Some Tools i Use **
+## ** Some Tools i Use⚙️ **
 
 > Tools and technologies that I have worked with and am interested in
 
