@@ -1,6 +1,4 @@
 ---
-![image](https://github.com/user-attachments/assets/94a9912d-fad6-4fe6-8fb8-c404f8e8a5cc)
-
 # 💻 Hey there, I'm Awais! 🚀  
 
 ### Passionate Developer | Aspiring Fintech Innovator | Future AI Enthusiast  
