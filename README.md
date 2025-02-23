@@ -14,25 +14,20 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 
 ## 🔥 **Tech Stack & Skills**  
 
-<table style="border:none;">  
+<table>  
 <tr>  
 <td width="50%" align="left" valign="top" style="font-size: 18px;">  
 
 ✅ **Frontend:** React, JavaScript, HTML, CSS  
-<br>
 ✅ **Backend:** Flask, Django, Python, C#  
-
 ✅ **Frameworks:** .NET, ASP.NET  
-
 ✅ **Database:** MongoDB, MySQL, Firebase  
-
 ✅ **Version Control:** Git, GitHub  
-
 ✅ **Other:** C++, Data Structures & Algorithms  
 
 </td>  
 <td width="50%" align="right" valign="top">  
-<img src="https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="490px">  
+<img src="https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="450px">  
 </td>  
 </tr>  
 </table>  
