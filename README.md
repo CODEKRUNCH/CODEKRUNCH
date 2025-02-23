@@ -2,7 +2,7 @@ Here's a powerful and attractive GitHub profile README for you:
 
 ---
 
-# 💻 Hey there, I'm [Your Name]! 🚀  
+# 💻 Hey there, I'm Awais! 🚀  
 
 ### Passionate Developer | Aspiring Fintech Innovator | Future AI Enthusiast  
 
