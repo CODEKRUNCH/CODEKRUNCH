@@ -19,10 +19,15 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 <td width="50%" align="left" valign="top" style="font-size: 18px;">  
 
 ✅ **Frontend:** React, JavaScript, HTML, CSS  
+
 ✅ **Backend:** Flask, Django, Python, C#  
-✅ **Frameworks:** .NET, ASP.NET  
+
+✅ **Frameworks:** .NET, ASP.NET
+
 ✅ **Database:** MongoDB, MySQL, Firebase  
+
 ✅ **Version Control:** Git, GitHub  
+
 ✅ **Other:** C++, Data Structures & Algorithms  
 
 </td>  
