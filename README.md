@@ -21,7 +21,8 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 <li>📝 I write about web development, fintech, and AI.</li>
 <li>💬 Ping me about React, Flask, C#, fintech, and security topics.</li>
 <li>📙 Check out my <a href="https://your-resume-link.com">resume</a>.</li>
-<li>🎯 Fun Fact: I can spend hours debugging before realizing I forgot a semicolon. 😅</li>
+<li>🎯 Fun Fact: I can spend hours debugging before 
+  realizing I forgot a semicolon. 😅</li>
 </ul>
 ---
 
