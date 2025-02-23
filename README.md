@@ -1,5 +1,3 @@
-Here's a powerful and attractive GitHub profile README for you:  
-
 ---
 
 # 💻 Hey there, I'm Awais! 🚀  
