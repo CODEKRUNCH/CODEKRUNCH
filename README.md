@@ -18,8 +18,8 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 <li>🔭 I’m currently working on fintech projects and AI-driven applications.</li>
 <li>🧐 Learning about machine learning, financial technology, and AI innovations.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/YourUsername">GitHub</a>.</li>
-<li>📝 I write about **web development, fintech, and AI.</li>
-<li>💬 Ping me about **React, Flask, C#, fintech, and security topics.</li>
+<li>📝 I write about web development, fintech, and AI.</li>
+<li>💬 Ping me about React, Flask, C#, fintech, and security topics.</li>
 <li>📙 Check out my <a href="https://your-resume-link.com">resume</a>.</li>
 <li>🎯 Fun Fact: I can spend hours debugging before realizing I forgot a semicolon. 😅</li>
 </ul>
