@@ -24,7 +24,6 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 <li>🎯 Fun Fact: I can spend hours debugging before<br> 
   realizing I forgot a semicolon. 😅</li>
 </ul>
----
 
 ## 🚀 **Projects I'm Working On**  
 
