@@ -14,8 +14,8 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 
 ## 🔥 **Tech Stack & Skills**  
 
-<div align="center">  
-  <img src="https://media.giphy.com/media/SUuZb3mld59Ec/giphy.gif" width="200px">  
+<div align="right">  
+  <img src="[https://media.giphy.com/media/SUuZb3mld59Ec/giphy.gif](https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966)" width="200px">  
 </div>  
 
 🔹 **Frontend:** React, JavaScript, HTML, CSS  
