@@ -1,6 +1,6 @@
 ---
 
-# 💻 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  , I'm **Awais!** 🚀  
+# 💻 Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">  , I'm **Awais!**   
 
 
 ### Passionate Developer | Aspiring Fintech Innovator | Future AI Enthusiast  
@@ -38,7 +38,7 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 </div>  
 
 ---
-## **Some Tools i Use ⚙️**
+## **⚙️Some Tools i Use **
 
 > Tools and technologies that I have worked with and am interested in
 
