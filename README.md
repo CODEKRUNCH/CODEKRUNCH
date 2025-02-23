@@ -9,29 +9,20 @@
 I love building **scalable, high-performance web apps**, working on **fintech solutions**, and exploring **AI applications**.  
 
 🚀 **Always learning, always building!**  
-
 ---
+<img align="right" src="https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="450px"/>
 
-## 🔥 **Tech Stack & Skills**  
+<h2>⚡️ A Few Quick Facts</h2>
 
-<table>  
-<tr>  
-<td width="50%" align="left" valign="top" style="font-size: 18px;">  
-
-✅ **Frontend:** React, JavaScript, HTML, CSS  
-✅ **Backend:** Flask, Django, Python, C#  
-✅ **Frameworks:** .NET, ASP.NET  
-✅ **Database:** MongoDB, MySQL, Firebase  
-✅ **Version Control:** Git, GitHub  
-✅ **Other:** C++, Data Structures & Algorithms  
-
-</td>  
-<td width="50%" align="right" valign="top">  
-<img src="https://camo.githubusercontent.com/3782881044e264bfb2d1002964bc4f6a1fd0e7c7fe411a09473416a3589d02a2/68747470733a2f2f6d65646961312e67697068792e636f6d2f6d656469612f31334867774773584630616947592f67697068792e676966" width="450px">  
-</td>  
-</tr>  
-</table>  
-
+<ul>
+<li>🔭 I’m currently working on fintech projects and AI-driven applications.</li>
+<li>🧐 Learning about machine learning, financial technology, and AI innovations.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/YourUsername">GitHub</a>.</li>
+<li>📝 I write about **web development, fintech, and AI.</li>
+<li>💬 Ping me about **React, Flask, C#, fintech, and security topics.</li>
+<li>📙 Check out my <a href="https://your-resume-link.com">resume</a>.</li>
+<li>🎯 Fun Fact: I can spend hours debugging before realizing I forgot a semicolon. 😅</li>
+</ul>
 ---
 
 ## 🚀 **Projects I'm Working On**  
