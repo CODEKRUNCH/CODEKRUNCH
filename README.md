@@ -14,7 +14,7 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 
 ## 🔥 **Tech Stack & Skills**  
 
-<table>  
+<table style="border:none;">  
 <tr>  
 <td width="50%" align="left" valign="top" style="font-size: 18px;">  
 
