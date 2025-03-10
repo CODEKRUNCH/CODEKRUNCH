@@ -176,7 +176,7 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 
 ## 🤝 **Let's Connect!**  
 
-📩 **Email:** your.email@example.com  
+📩 **Email:** awaisnvm@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
 🐦 [Twitter](https://twitter.com/yourprofile)  
 
