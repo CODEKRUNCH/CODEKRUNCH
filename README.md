@@ -169,7 +169,7 @@ I love building **scalable, high-performance web apps**, working on **fintech so
 <div align="center">  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CODEKRUNCH&theme=radical" />  
   <br>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical" />  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CODEKRUNCH&layout=compact&theme=radical" />  
 </div>  
 
 ---
